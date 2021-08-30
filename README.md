@@ -7,14 +7,14 @@
 <div>
   <a href="https://github.com/i1iadeilton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i1iadeilton&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1iadeilton&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1iadeilton&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Ade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
-  <img align="right" alt="Rafa-yoda" height="380" width="380" src="https://media3.giphy.com/media/RlHVpsV3w8zO9lyE2E/giphy.gif">
+  <img align="right" alt="Rafa-yoda" src="https://media0.giphy.com/media/26DNj3iQi58mrvTDW/giphy.gif?cid=6c09b952zgp511kh2ebo6blqvjrp7xxvybek9l0hyzazjzea&rid=giphy.gif&ct=s">
 </div>
   
    ##
