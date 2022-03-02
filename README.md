@@ -1,6 +1,6 @@
 ## Olá, pode me chamar de Adeilton ^^. 
 
-💻 Atualmente estou estudando Java, Javascript e Ruby on rails<p>
+💻 Atualmente estou estudando Java e Javascript<p>
 🔵 Contate-me no email: i1iadeilton@gmail.com<p>
 😊 Pronouns: ele/dele
   
